@@ -1,3 +1,7 @@
+--[[
+This Script is made by Instinkt https://steamcommunity.com/id/InstinktServers and is under GPL-3.0 License.
+--]]
+
 if SERVER then
     include("gruber/ttt_minigames/sv_tictactoe.lua")
     AddCSLuaFile("gruber/ttt_minigames/cl_tictactoe.lua")
